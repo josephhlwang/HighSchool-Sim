@@ -1,0 +1,34 @@
+1
+0
+9
+1
+7
+9
+13
+10
+6
+9
+1
+1
+9
+Math
+logicalIntelligence
+72.3292281526226
+72.3292281526226
+9
+Science
+logicalIntelligence
+69.04553664693275
+69.04553664693275
+9
+Computer Science
+logicalIntelligence
+73.56669516978295
+73.56669516978295
+9
+Computer Engineering
+logicalIntelligence
+69.24757248142389
+69.24757248142389
+284.18903245076217
+Andrew

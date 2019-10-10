@@ -1,0 +1,42 @@
+Example Format
+
+/* Reference for ids of the stats
+	 * 0 - no stat req
+	 * 1 - linguistic intelligence
+	 * 2 - spatial intelligence
+	 * 3 - logical intelligence
+	 * 4 - expression charisma
+	 * 5 - social charisma 
+	 * 6 - luck
+ 	 * 7 - happiness
+	 * 8 - strength
+	 */ each event will only have one requirement that needs to be met 
+	
+	/* event type
+	 * 1 - Routine event
+	 * 2 - Random event
+	 * 3 - Predetermined event 
+	 */
+start of the text file
+*number of events at top, only need this once in the text file (ex. 24) 
+
+1 		(event type) 
+a1 		(id, can be any string)
+6 		(stat type, luck in this case)
+4		(minimum number of luck needed to qualify)
+3 		(number of phases in the event, reminder that each phase represents a decision making point in the event) 
+As you walk to your next period class, you peer into a classroom and see Bill, a classmate of yours, preparing to jump.(text of the first phase, keep all phase and choice text limited to one line)
+2 	(number of choices of that phase) 
+Don't jump! Your life is worth more than that! (Choice 1 of phase 1)
+"If only that were true" he says. (change to story, the text being added to the beginning of the next phase text)
+Lean in to it, it's better for your knees. (Choice 2 of phase 1)
+He looks back at you and smiles. "Thanks for the advice bud". (change to story) 
+The student breaths a sigh of relief and pushes the window open. (phase text)
+2 	*number of choices of second phase
+Run towards Bill and pull him back.	(choice 1)
+You run towards Bill, leaping over chairs and desks, but it's too late. (effect on story) 
+Try to talk him out of it.	(choice 2)
+"I promise you Bill", you shout, "life's worth living for!". There's no reply. (effect on story) 
+You can only watch in horror as he falls forward like a sack of potatoes. You run to the window and look down. All that's left to greet you is a crumpled red stain, what remains of poor Bill.
+0
+(the last phase has no choices so just put 0, it's just phase text)

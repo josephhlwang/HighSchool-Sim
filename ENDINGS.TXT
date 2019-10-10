@@ -1,0 +1,110 @@
+10
+College
+7
+5
+1
+50
+5
+50
+Highschool's over and your future has been decided. You're going to college. Not a good one, but not a bad one either.
+You tried your best, but you messed around a little too much, only to get in to college as a result. 
+You're going to miss all your friends that are going to university. You have decided to move on and start a new chapter in your life.
+
+Athlete
+8
+6
+8
+150
+5
+100
+Highschool's over. You've won the national championship. Many scouts have seen your abilities.
+You have entered the draft for 2020. You're predicted to be the next Michael Jordan. 
+With all the attention and skill, you've entered an organization and have begun training for your future. 
+
+Criminal
+7
+3
+1
+75
+8
+75
+You have always been a rebel, but now you've crossed the line. You hacked into your school system and changed your marks.
+Now expelled from your school you have decided to become a professional hacker. You join a lucrative ANTIFA team that wants to take down Trump.
+You live a life of danger always being chased down by the CIA. Your life has changed ever since the day you hacked the school.
+
+Live Streamer
+7
+4
+5
+150
+4
+100
+You have always loved video games and you're also very good at it. You decide to become a live streamer instead of pursuing higher learning.
+Your parents are outraged by this fact and remove you from the house. You find someother young and upcoming content creators to live with.
+You guys work together and create some amazing content. As one of the new up and coming live streamers, you have a bright future.
+
+Mcdonald's
+9
+3
+1
+25
+2
+25
+Highschool has ended and you have decided to join the workforce. Unfortunately only one location wanted to hire you... Mcdonald's.
+With no other choice, you reluctantly take the job. With your new task of flipping patties every day, your brain slowly deteriorates.
+Every night you go home full of regret and cry. You live the rest of your years in misery and die an early death.
+
+eSport Player
+8
+7
+2
+120
+2
+120
+Highschool's over and it's time to decide what school you want to go to. When you enter one they decided to add you to their eSports team.
+Ever since you were a kid you have always been able to beat those around you in video games. Even growing up, you were always ahead.
+Now you are finally able to use your strengths to the fullest. Take advantage of this opportunity and this will become your full time career.
+
+University
+5
+6
+1
+180
+3
+180
+Highschool's over and you have graduated at the top of your class. With plenty of offers from universities, you plan and get ready to move in.
+You have earned plenty of scholarships that sum up to a large total of $1000000. You will be in university for years for your bachelor's and another 3 more for your PhD.
+By the end of all that you will become a doctor, lawyer or engineer, with plenty of money and memories to pass around. Life is good.
+
+Artist
+7
+6
+1
+40
+2
+50
+You finished highschool with high artistic ablities, with your pieces praised both by friends and family.
+Your powerful social media following allows you to get accepted as a student by the world famous artist, Tania Bruguera.
+You begin drawing and painting as well as sculpting with her to begin your own art career.
+
+Hollywood
+1
+8
+5
+80
+1
+80
+You loved acting class in highshool and you continue your love for acting in film school.
+You travel to the Hollywood to begin your journey to get noticed by the hotshots of the industry. Your time in the limelight begins.
+After you direct 3 live performances, a small indie director notices you and gives you a chance to direct a small movie called "Guardians of the Galaxy III: Revenge of Thanos".
+
+Dropout
+8
+2
+0
+0
+0
+0
+You messed around for all four years of highschool. You didn't have the marks to succeed, so you dropped out.
+Your parents are annoyed at you and despise the fact that you were born, they disown you. This sends a feeling of misery down your spine.
+Now homeless without a career you spend the rest of your days on the streets of Toronto begging for money.

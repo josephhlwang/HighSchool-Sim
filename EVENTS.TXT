@@ -1,0 +1,511 @@
+20
+2
+Bully
+6
+2
+4
+You are walking back to class from lunch, as you approach the class a bully stands in your way.
+2
+You decide to confront the bully. 
+The bully takes off his shirt and puffs up his chest. 
+You decide to walk away and avoid the bully. 
+The bully leaps after you and puts his hands on your neck. 
+The bully says "You wanna fight, bruh?!" 
+2
+You nod and get ready to fight. 
+The bully rips off a locker door, intimidating you. 
+You shake your head in fear. 
+The bully corners you and pushes you onto the ground. 
+The bully says "What are your last words, boy?" 
+2
+You say "I'm gonna call kid's help phone!" 
+He takes the phone out of your hands and snaps it in half. 
+You say "Sticks and stones may break your bones, but Jesus will never let you hurt me idiot!" 
+The bully says "What the hell are you talking about church boy? Get outta here." 
+The bully begins pummeling you, with stars start circling your eyes. You black out. A few hours later you wake up and find yourself back at home, sore all over. 
+0
+7
+-1
+
+1
+Music Nights
+5
+7
+3
+It's your school's music night and you have just arrived at school.
+2
+You choose to play the double bass. 
+You stand in the back where no one notices you. 
+You choose to play the alto saxaphone. 
+You get to perform a solo. 
+The conductor signals the orchestra that the next piece will be the last. 
+2
+You prepare yourself to play in the last piece. 
+You prepare too much and get tense causing you to play while everyone is silent. 
+You mess around on your phone and wait for the conductor to start. 
+The conductor cues the orchestra and you miss it. 
+Everyone stands up at laughs at you go back home and learn to pay attention. 
+0
+3
+1
+
+1
+Sports Game
+8
+8
+3
+You have a game tommorow and there are going to be scouts watching. 
+2
+You choose to attend practice the morning of. 
+The team spends the morning talking about plays and strategy that gets you ready. 
+You sleep in to get more rest for the game. 
+The extra rest gives extra energy that helps increase the chances of winning today. 
+The game is happening soon and you feel pumped. 
+2
+You have the chance to end the game and you decide to finish it. 
+You are succesful and the crowd goes wild. 
+You decide to trust in your teammates to finish off the game. 
+Your trust was not wasted as your team is succesful. 
+The scouts have witnessed your abillity, your chances of going pro have increased exponentially. 
+0
+8
+2
+
+3
+Meeting Hollywood Director
+6
+2
+3
+You're walking around downtown as you see a man with many bodyguards around him.
+2
+You approach him to see who he is. 
+The man reveals that he is a director. 
+You decide to conitnue on with your original plans. 
+You trip on a rock and fall into one of the bodyguards. 
+The bodyguard tells you that he is a director for the Transformer series. 
+2
+You tell the director that you're interested in being part of the movie. 
+The director ponders and wonders if there is a place for you. 
+You talk to the director to see what his inspiration is. 
+As you and the director talk, he gets interested in you as a person and you guys talk for a long time. 
+The director decides to cast you as a side character in his latest movie. 
+0
+4
+5
+34
+
+2
+Quebec Trip
+1
+7
+4
+Your French class is going on a trip to Quebec for a week, where you leave tomorrow.
+2
+It's your first day and you decide to explore the city. 
+You go around and explore city hall, museums and restaurants. 
+It's your first day and you chill at the hotel. 
+You spend some time in the pool, at the sauna and drink juice at the bar. 
+Your class meets up for dinner at a 5 star restaurant. 
+2
+For the rest of the days of the trip you decide to go with the school plan. 
+The school trip is extremely dull and you wish you hadn't have done this. 
+In the following week you decide to explore Quebec and all of it glory with your friends. 
+Your group of friends go to midnight raves every day and you have the time of your life. 
+The trip is over and it's time to fly back.
+2
+The teacher makes you write a report on the trip. You decide not to complete it. 
+The teacher is telling a joke. 
+The teacher makes you write a report on the trip. You eat it in front of him. 
+The teacher is telling a joke. 
+What kind of teacher makes you write a report about at trip? You get scolded for your incompetence as a result. 
+0
+1
+3
+
+3
+Prom
+7
+2
+3
+Tonight's the night, the night of your highschool prom. This where all the magic happens and your highschool dreams come true.
+2
+You decide to dance with your date. 
+The tunes of an old 80's song pop up and you both lose the will to continue dancing. 
+You play cards with the losers in the corner. 
+Some nearby dancers comeby and trample all over your cards. 
+Prom is over and it's time to decide what to do with the rest of the night. 
+2
+You choose to go to your best friend's after-party. 
+Everyone has a great time and gets drunk off pickle juice. 
+You spend your night with your special partner at an Air BnB that you booked out. 
+You guys have a tame night and play twister over and over again. 
+You end up sleeping very late and wake up the next day with a crazy headache. 
+0
+7
+2
+38
+
+1
+Mcdonald's
+7
+2
+3
+You suddenly feel the need to eat. There is a McDonald's across the street. You enter the McDonald's and the cashier says "What would you like?"
+2
+"A Big Mac, please." 
+The cashier says, "Your total is $6.82." 
+"One McChicken." 
+The cashier says, "Your total is $6.76." 
+You open your wallet and pay the cashier. 
+2
+Eat the sandwich now. 
+You open the bag and you smell the aroma of the fries. You take a bite of the sandwich and you think to yourself "Why do I keep eating this? I'm trying to lose weight." 
+Eat the sandwich later. 
+You put the meal into your bag but the smell is too tempting so you take out a fry and eat it. 
+While chewing, you think to yourself "Is working here that bad?" 
+0
+7
+1
+
+1
+Hanging out with friends
+5
+7
+3
+It's the weekends and you decide to meet up with your friends at the mall.
+2
+The gang decides to go to the arcade. 
+On your way to the aracade five clowns jump out of nowhere and mug you. 
+The gang decides to watch a movie. 
+On your way to the movie five clowns jump out of nowhere and mug you. 
+Now broke and sad, you guys decide to go home. 
+2
+Do the right thing and go home to rub your clarinet with alcohol. 
+Your mom finds you cleaning your clarinet and scolds you for not using protection. 
+Go out with your friends to eat dinner. 
+You guys go to a bar by accident and get thrown out. You meet the clowns again and this time they cut off your hair. 
+It's been a long day and you decide to go to sleep, you have developed insomnia from the constant fear of the clowns appearing in your nightmares. 
+0
+7
+-2
+
+1
+Visiting the therapist
+7
+2
+3
+School is tough, very tough. You go home everyday wondering why you want to live. Today you decide to vist a therapist.
+2
+You tell the therapist you want to kill yourself. 
+The therapist shows you the scars on his back. He explains that he was a former war veteran. He talks about his past where thousands of his comrades died. 
+You ask the therapist why no one loves you. 
+The therapist hugs you and says "I love you baby! I can be your sugar daddy." 
+This meeting has made you realize that it's fine to have problems, your therapist has even more. 
+2
+You decide to not pay your therapist, and ponder wheter you should come back or not. 
+You run quick as they call security and start chasing after you. 
+You purge your bowels on the doctors desk and run away. 
+You run quick as they call security and start chasing after you. 
+They stop chasing you and you decide to go find a new therapist. Perhaps this time, you will choose someone that's actually qualified. 
+0
+1
+1
+
+2
+Stealing from your mom's purse
+6
+2
+3
+You've been into a lot of Minecraft and you need money to pay for you VIP services.
+2
+You decide to go after her VISA card. 
+You run quick before she comes in the room. 
+You steal 200 dollars from her bag. 
+You go to the back to put the cash into your account. 
+You go on to your computer to spend the money. 
+1
+You purchase three years worth of VIP services. 
+Your account gets hacked and so does all of your families, thankfully you are able to stop them before too much damage is done. You lost $50000. 
+Your parents give you a firm soft smack on your tucchus. You've definitely learned your lesson about petty theft, especially from within your own family. 
+0
+7
+-1
+
+1
+Going to the water park
+8
+5
+3
+It's a surpisingly cold day. Your friends decide it's a good idea to go to the water park.
+2
+You choose to go with them and have fun.
+They pick you up at your house early in the morning and you guys go to the water park. 
+You stay home because you don't want to get cold. 
+Your bad friends break into your house, and drag you into their car. 
+You arrive at the water park and everybody splits up. 
+2
+You decide to enter the wave pool and float around. 
+You get sleepy and end up getting knocked out by a wave. 
+Your friends bring you onto a diving board and push you off. 
+You fall face first into the water and get knocked out. 
+A lifeguard comes and saves you and brings you to the park's infirmary. Your friends leave you at the park and you have to take a taxi home. 
+0
+8
+1
+
+3
+Contemplating life
+7
+2
+10
+Your life sucks, you hate school, you hate yourself, you just want to die.
+1
+Kill yourself. 
+You don't have the willpower to go on. 
+You wonder what to do next. 
+1
+Kill yourself. 
+You don't have the willpower to go on. 
+You wonder what to do next. 
+1
+Kill yourself. 
+You don't have the willpower to go on. 
+You wonder what to do next. 
+1
+Kill yourself. 
+You don't have the willpower to go on. 
+You wonder what to do next. 
+1
+Kill yourself. 
+You don't have the willpower to go on. 
+You wonder what to do next. 
+1
+Kill yourself.:) 
+You don't have the willpower to go on. 
+You wonder what to do next. 
+1
+Kill yourself. 
+You don't have the willpower to go on. 
+You wonder what to do next. 
+1
+Kill yourself.:) 
+You don't have the willpower to go on. 
+You wonder what to do next. 
+1
+Kill yourself. 
+You don't have the willpower to go on. 
+Your mom comes in and stops you before you can end your life... 
+0
+7
+1
+40
+
+2
+Meteor Crash
+6
+2
+3
+You're walking home from school as you see a meteor fly down and land in your neighbourhood.
+2
+You discover your house destroyed and decide to go check what has happened. 
+A swarm of flies chase you out and you go back to school. 
+You get scared and go back to school. 
+On your way back to school, a swarm of flies chase you. 
+You enter the school and lock out the flies. 
+2
+You call your aunt and ask if you can move in with them. 
+They come to the back of the school and bring you away from the flies. 
+You call your grandparents and ask if you can move in with them. 
+Your grandparents are dead, so your aunt comes to pick you up to bring you away from the flies. 
+You move in with your auntie as she has lots of money and your family is dead. 
+0
+7
+-1
+
+2
+Stray Cat
+4
+1
+3
+You casually look on the road and you see something furry. You don't pay much attention to it until it suddendly moves. You realize it is a cat.
+2
+"It's not my problem. Why do I care about that thing?" 
+The kitten looks at you with his soft gaze and you seem to get mind controlled to help him. 
+"He's too cute, I have have to help him right away!" 
+You quickly run to the kitten and take him into your arms. 
+He meows and seems to tell you to pet him. Do you take him home with you or do you let him go safetly on the sidewalk. 
+2
+"I'll take him home and care for him forever and ever!" 
+He meows happily and smiles at you. 
+"I'll leave him on the sidewalk..." 
+He meows again and your decision making skills become clouded and you take him home anyways. 
+Together you go back him, now with your newly found kitten. You find him a cardboard box and he falls asleep instantly with a smile. 
+0
+5
+3
+
+2
+Video Game
+3
+5
+7
+It is the weekend and after completing all your work, you decide to relax. You open up the computer and decide to choose one of your favourite video games.
+2
+Tetris 
+The blocks start falling and you remember the how you once held the world record for most points. 
+Bejeweled® 
+The jewels come down from the sky and you remember the how you once held the world record for most points. 
+After an hour of playing, you wonder whether you should play one more? 
+2
+"Hell yes!" 
+You go back to the computer and open up the game again. 
+"No, it is bad for my eyes." 
+You think how fun the game is and how playing one more hour won't be that bad and re-open the game. 
+You play for another hour, should you play another? 
+2
+"Yes!"
+You go back to the computer and open up the game again. 
+"No, I should go outside." 
+You think how fun the game is and how playing one more hour won't be that bad and re-open the game. 
+You play for another hour, should you play another? 
+2
+"Yes!" 
+You go back to the computer and open up the game again. 
+"No, I should do some extra curricular activities." 
+You think how fun the game is and how playing one more hour won't be that bad and re-open the game. 
+You play for another hour, should you play another? 
+2
+"Yes!" 
+You go back to the computer and open up the game again. 
+"No, I should go excercise." 
+You think how fun the game is and how playing one more hour won't be that bad and re-open the game. 
+You play for another hour, should you play another? 
+1
+"Nah." 
+You turn off the computer to rest your eyes but as you check the clock, 4 hours have already passed. 
+It is at this moment you realise how much of a waste of time this is. 
+0
+3
+3
+
+1
+Getting Sick
+8
+2
+3
+Your throat feels sore & your nose is drippy. You think you are sick. What should you do?
+2
+Continue studying for your next test. 
+You kind of feel drowsy and want to sleep. 
+Take some medicine and sleep. 
+You take some Tylenol and sleep 
+You fall asleep slowly but begin to burn up. Should you take a hot shower or cold shower? 
+2
+Hot shower. 
+You feel a lot better. 
+Cold shower. 
+You feel cooler but your nose begins to run again. 
+You get back to bed and after a long, long, long sleep you wake up and feel healty agian. You go back to reading your textbook. 
+0
+8
+3
+
+2
+Winning the Lottery
+6
+2
+3
+You buy a lottery ticket and bring it home.
+2
+You scratch the numbers yourself. 
+You win millions of dollars. 
+You let your friends open the lottery ticket. 
+Your friend gets the winning numbers. 
+You decide to spend all the money at once. 
+2
+You buy a 50 million dollar Pokemon card. 
+You keep the cards in your room enshrined on a wall. 
+You spend 50 million dollars to free your dad from prison. 
+He comes home and spends time with your dying aunt. 
+Now with 0 dollars in your bank account, your life goes back to normal. 
+0
+1
+1
+
+2
+Sleepover at your friend's house
+1
+10
+3
+It's your friend Adam's birthday and he invites you to stay overnight.
+2
+You decline as you are busy on that day. 
+You try over and over again to decline, but he forces you to go anyway. 
+You accept as you can't wait to have some fun. 
+You pack up and get ready to go over to his house. 
+You arrive at your house and the party begins. As the day goes on more and mroe people leave untill you're the last one left. 
+2
+You guys decide to play board games. 
+You guys play beer pong. 
+You guys watch anime. 
+You guys watch your favourite anime: Re:Zero. 
+You wake up on the streets the next morning. You ended up sleep walking out. People surround you and laugh at you as you're in your underwear. 
+0
+3
+1
+
+2
+Meet your Love
+5
+6
+4
+As you look out the window from your house, you see this beautiful figure walking their dog. As much as you want to talk to them, you know you do not have the social skills to.
+2
+Open the door and go talk to them. 
+They freeze in their spot and look at you as you run towards them to talk. 
+Don't do anything and keep staring. 
+They notice you creepily staring at them and come to your window. 
+Them says, "Hey, I saw you looking at my dog, do you like dogs too?" 
+2
+"Yes, I love them. They are my favourite animal." 
+You say, "I love dogs and taking care of them, just like how I will take care of you." 
+"No, I am allergic to them." 
+You say, "Yes, your dog is super cute just like you" as you want them to love you. 
+Immediately you realize how desperate you sound and you cringe at your words. They pretend to not hear the last part of your sentence. 
+2
+"Do you wanna go out sometime?" 
+They say, "Wow, people keep thinking I won't say yes just because I'm attractive but you sure have guts! In fact, yes I would." 
+"Can I pet your dog?" 
+You pet their dog and the dog seems to smile at you. They says, "Wow, my dog usually attacks who ever tries to pet them. We have a connection. Let's hang out sometime!" 
+You arrange a time for a date and you feel this warm fuzzy feeling inside. You finally have a significant other! 
+0
+5
+5
+
+2
+Cancer
+6
+2
+4
+You're just heading to your next class, when you feel your pocket vibrating. As you pull your phone out of your pocket, the display shows the the caller as your mother.
+2
+Ignore it. 
+The phone rings again, and again, until you reluctantly pick it up, only to be informed that your father has cancer. Alarmed, you leave to the hospital as quickly as possible. 
+Answer it. 
+Your mother sobs as she informs the ailment of your father, as he has fallen ill to cancer. You fall to your knees, not knowing what to do, before leaving for the hospital. 
+As you enter the hospital, you're lost and don't know what to do. 
+2
+Cry.
+As your tears stream down your face, you're completely lost. Your heart hurts, as you try to recover from this unbearable pain. 
+Talk to your father. 
+He looks at you, and he quietly rasps, "You've done well for yourself, don't hold yourself back because of me." You're at the brink of tears. 
+You're filled with indecision. 
+2
+Talk to your father. 
+You gather the courage to say to him, "I'll try to be happy for your sake, but I just don't know what to do." He has no response but a weak, warm smile. 
+Run away. 
+You have nothing else to do, but to wallow in your own despair. You run for the door. 
+As you leave, you contemplate life and what it means to you. People can easily leave your life, as your being could disappear just as easily. You somberly leave the hospital with these thoughts in your mind. 
+0
+6
+-2

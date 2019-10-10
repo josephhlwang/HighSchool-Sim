@@ -1,0 +1,22 @@
+Artist
+7
+7
+1
+7
+2
+8
+You finished highschool with high artistic ablities.
+You get accepted as a student by the world famous artist, Tania Bruguera.
+You begin drawing and painting as well as sculpting with her to begin your own art career.
+
+Hollywood
+1
+8
+5
+8
+1
+8
+You loved acting class in highshool and you continue your love for acting in film school.
+You travel to the Hollywood to begin your journey to get noticed by the spotlight.
+After you direct 3 live proformances, a small indie director notices you and gives you a chance to direct a small movie called "Guardians of the Galaxy II".
+

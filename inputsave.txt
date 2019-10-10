@@ -1,0 +1,9 @@
+public void inputSave() {
+		try {
+			BufferedWriter out = new BufferedWriter(new FileWriter("save.txt"));
+			out.write(this.getMonth);
+			out.newLine();
+			out.write(Character.getStats());
+		} catch (IOException iox) {
+			System.out.print("Error selecting file");
+		}
